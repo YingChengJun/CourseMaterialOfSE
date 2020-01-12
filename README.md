@@ -18,7 +18,6 @@ https://github.com/yangyueren/course_materials_of_cs
 
 https://github.com/QSCTech/zju-icicles
 
-
-
-##### 还有一些PDF的课本，因为太大了不方便上传，所以之后会考虑放到ZJU网盘上然后把链接挂出来。
+##### PDF课本链接：
+https://pan.zju.edu.cn/share/30b96c3488000197330231de40
 
