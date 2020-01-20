@@ -21,3 +21,5 @@ https://github.com/QSCTech/zju-icicles
 ##### PDF课本链接：
 https://pan.zju.edu.cn/share/30b96c3488000197330231de40
 
+##### 信安专业指路国奖DL的GitHub：
+https://github.com/IMMORTAL23/ZJU-Course_info
