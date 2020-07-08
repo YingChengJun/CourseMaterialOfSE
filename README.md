@@ -12,10 +12,7 @@
 
 ##### 软件工程基础课程自建题库：
 
-http://www.zjufwdx.cn
-
-邀请码：test
-
+已下线（之后有需要再开放）
 ##### 杨樾人学长的GitHub
 
 https://github.com/yangyueren/course_materials_of_cs
